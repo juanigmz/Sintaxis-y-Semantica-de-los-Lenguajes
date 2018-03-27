@@ -1,2 +1,6 @@
 # Sintaxis-y-Semantica-de-los-Lenguajes
-Curso K2051 de Sintaxis y Semantica de los Lenguajes UTN FRBA 2018
+- Juan Ignacio Gomez
+
+• Curso: K2053.
+• Año: 2018
+• Legajo: 138561-6
